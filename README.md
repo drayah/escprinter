@@ -1,6 +1,6 @@
 escprinter
 =======
-.
+
 Simple Java class to allow printing to Epson ESC/P and ESC/P2 matrix printers shared on the network. Currently tested with the Epson LX-300+II 9 pin impact printer but 24 pin support is included.
 
 **Usage**: Printer should be shared on the network. E.g. **\\\computername\printershare**
