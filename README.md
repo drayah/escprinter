@@ -1,4 +1,4 @@
-escprinter
+ESCprinter
 =======
 
 Simple Java class to allow printing to Epson ESC/P and ESC/P2 matrix printers shared on the network. Currently tested with the Epson LX-300+II 9 pin impact printer but 24 pin support is included.
@@ -25,3 +25,4 @@ You use this network path when constructing ESCPrinter objects as follows.
     else {
         System.out.println("Couldn't open stream to printer");
     }
+** File Closed **
